@@ -1,0 +1,18 @@
+{
+  "frontendFolder": "/Users/wmc/Desktop/Repo/CastleMan/./frontend",
+  "themeFolder": "themes",
+  "themeResourceFolder": "/Users/wmc/Desktop/Repo/CastleMan/./frontend/generated/jar-resources",
+  "staticOutput": "/Users/wmc/Desktop/Repo/CastleMan/target/classes/META-INF/VAADIN/webapp/VAADIN/static",
+  "generatedFolder": "generated",
+  "statsOutput": "/Users/wmc/Desktop/Repo/CastleMan/target/classes/META-INF/VAADIN/config",
+  "frontendBundleOutput": "/Users/wmc/Desktop/Repo/CastleMan/target/classes/META-INF/VAADIN/webapp",
+  "devBundleOutput": "/Users/wmc/Desktop/Repo/CastleMan/src/main/dev-bundle/webapp",
+  "devBundleStatsOutput": "/Users/wmc/Desktop/Repo/CastleMan/src/main/dev-bundle/config",
+  "jarResourcesFolder": "/Users/wmc/Desktop/Repo/CastleMan/./frontend/generated/jar-resources",
+  "generatedFlowImportsFolder": "target/frontend",
+  "themeName": "testlaufvaad",
+  "clientServiceWorkerSource": "/Users/wmc/Desktop/Repo/CastleMan/target/sw.ts",
+  "pwaEnabled": false,
+  "offlineEnabled": false,
+  "offlinePath": "'offline.html'"
+}
